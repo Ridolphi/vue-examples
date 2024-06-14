@@ -47,7 +47,7 @@ h2{
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 100vh; /* Altura total da viewport */
+  height: 100vh;
 }
 
 ul {
